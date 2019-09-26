@@ -1,3 +1,5 @@
 # Readme
 
-## pacman game & eight queen puzzle
+## q1~q7: pacman game
+
+## q8: eight queen puzzle
